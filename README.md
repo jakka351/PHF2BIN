@@ -1,4 +1,7 @@
 # PHF2BIN
+
+Want to modify this so that it can take any .phf file and convert to bim. ya?
+
 Extremely basic application that converts a ford PHF file to a binary image. 
 Currently is hard coded to convert spanish oak 1024k and black oak 1472k.
 Program could easily be expanded to be more generic and convert other files.
